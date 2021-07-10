@@ -2,7 +2,7 @@
 
 ### I'm Tim:  
 
-🧑🏼‍💻 iOS Engineer at Twitch  
+🧑🏼‍💻 iOS Engineer
 🌉 Living in the Bay Area  
 🇩🇪 German expat  
 🏎 Mostly coding in Swift  
