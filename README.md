@@ -2,7 +2,7 @@
 
 ### I'm Tim:  
 
-🧑🏼‍💻 iOS Engineer  
+🧑🏼‍💻 iOS Engineer at Apple  
 🌉 Living in the Bay Area  
 🇩🇪 German expat  
 🏎 Mostly coding in Swift  
